@@ -1,2 +1,3 @@
 Foram adicionados detalhes para cada produto ao clicar sobre eles. 
 Foram removidas as seções de comentários.
+Foram adicionadas opções para classificar o teor da mensagem a ser enviada no formulário.
